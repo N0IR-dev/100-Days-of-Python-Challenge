@@ -9,3 +9,5 @@ This repository will feature 100 projects for each day of Python. Day 1 starts w
 **February 28th, 2026:** Added Project 3. Project is an Even or Odd number checker.
 
 ***March 1st, 2026:*** Added Project 4. Project is a Prime Number Chcker
+
+***March 2nd, 2026:*** Added Project 5. Project is a Fibonacci Sequence Generator
