@@ -11,3 +11,5 @@ This repository will feature 100 projects for each day of Python. Day 1 starts w
 ***March 1st, 2026:*** Added Project 4. Project is a Prime Number Chcker
 
 ***March 2nd, 2026:*** Added Project 5. Project is a Fibonacci Sequence Generator
+
+***March 3rd, 2026:*** Added Project 6. Project is a Palindrome Checker
