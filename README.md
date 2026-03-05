@@ -15,3 +15,5 @@ This repository will feature 100 projects for each day of Python. Day 1 starts w
 ***March 3rd, 2026:*** Added Project 6. Project is a Palindrome Checker.
 
 ***March 4th, 2026*** Added Project 7. Project is a Sentence Word Counter.
+
+***March 5th, 2026:*** Added Project 8. Project is a Number Guessing Game.
